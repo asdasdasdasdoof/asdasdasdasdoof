@@ -4,6 +4,7 @@
 
 ```python
 Languages  :  Python, Java, Js, Lua, HTML/CSS, C#
+Learning   :  C++
 ```
 ![Asdasdasdasdoof's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdasdasdasdoof&show_icons=true&theme=merko)
 

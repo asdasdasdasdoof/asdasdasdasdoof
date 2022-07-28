@@ -3,8 +3,8 @@
 <p align="center"><img src="https://gpvc.arturio.dev/RobbyV2" alt="Visitors"></a>
 
 ```python
-Languages  :  Python, Java, Js, Lua, HTML/CSS, C#
-Learning   :  C++
+Languages  :  Python, Java, Js, Lua, HTML/CSS
+Learning   :  C++, C#
 ```
 ![RobbyV2's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobbyV2&show_icons=true&theme=merko) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobbyV2&layout=compact)
 

@@ -2,8 +2,10 @@
 
 <p align="center"><img src="https://gpvc.arturio.dev/RobbyV2" alt="Visitors"></a>
 
-```python
+```bash
 In order of proficiency
+```
+```python
 Languages  :  Python, Java, Js, Lua, HTML/CSS
 Learning   :  C++, C#
 ```

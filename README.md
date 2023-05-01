@@ -10,14 +10,14 @@
 <sub>In order of proficiency</sub>
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/><br/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/><br/>
   
   
 ## <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FvjP1NdkBNQwAAAAM%2Fduck-walk.gif&f=1&nofb=1&ipt=72b311f9ae950b28927a9da525d167514f478a8445d8c74e83ca5478bb663f67&ipo=images" width="50">   **Languages Learning**
 <p align="center"> 
 <sub>In order of proficiency</sub>
   <p align="center"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50"/>
  
   
 ```bash

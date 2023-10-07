@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<p align="center"><img src="![](https://komarev.com/ghpvc/?username=RobbyV2)" alt="Visitors"></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RobbyV2" alt="Visitors">
 
 
 

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center"><img src="https://gpvc.arturio.dev/RobbyV2" alt="Visitors"></a>
+<p align="center"><img src="![](https://komarev.com/ghpvc/?username=RobbyV2)" alt="Visitors"></a>
 
 
 
@@ -10,14 +10,18 @@
 <sub>In order of proficiency</sub>
 
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
+            <img src="https://devicons.dev.br/icons?icon=Rust&theme=dark"  width="50"/>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50"/>
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="50"/>
   
   
 ## <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FvjP1NdkBNQwAAAAM%2Fduck-walk.gif&f=1&nofb=1&ipt=72b311f9ae950b28927a9da525d167514f478a8445d8c74e83ca5478bb663f67&ipo=images" width="50">   **Languages Learning**
 <p align="center"> 
 <sub>In order of proficiency</sub>
   <p align="center"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg"  width="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="50"/>
  
   
 ```bash

@@ -6,7 +6,7 @@
 
 
 
-## <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2Fccb959edb41a02737755b2209ef7d97a%2Ftenor.gif&f=1&nofb=1&ipt=1eae99a8610d58702556cd49f1a18c076ce8e6a5ebb089b5901e565366f990a3&ipo=images" width="50">   **Learned Languages**
+## <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2Fccb959edb41a02737755b2209ef7d97a%2Ftenor.gif&f=1&nofb=1&ipt=1eae99a8610d58702556cd49f1a18c076ce8e6a5ebb089b5901e565366f990a3&ipo=images" width="50">   **Known Stuff**
 <p align="center"> 
 <sub>In order of proficiency</sub>
 
@@ -18,7 +18,7 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="50"/>
   
   
-## <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FvjP1NdkBNQwAAAAM%2Fduck-walk.gif&f=1&nofb=1&ipt=72b311f9ae950b28927a9da525d167514f478a8445d8c74e83ca5478bb663f67&ipo=images" width="50">   **Languages Learning**
+## <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc.tenor.com%2FvjP1NdkBNQwAAAAM%2Fduck-walk.gif&f=1&nofb=1&ipt=72b311f9ae950b28927a9da525d167514f478a8445d8c74e83ca5478bb663f67&ipo=images" width="50">   **Trying to learn**
 <p align="center"> 
 <sub>In order of proficiency</sub>
   <p align="center"> 
